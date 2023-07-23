@@ -4,3 +4,7 @@ A simple weather application. The application allows users to enter a location (
 Based on the weather data received, the application updates the weather box section with an appropriate weather icon representing the current weather condition, the temperature in Celsius, and a brief weather description. It also displays additional weather details, such as humidity and wind speed, in the weather details section.
 
 If the entered location is not found or there is an error with the API request, the application displays an error message stating "Oops! Invalid location" in a "not-found" section.
+
+
+![image](https://github.com/Hadhemi33/Weather_App/assets/109398819/2392268f-d1f5-4d32-986e-23ff493ed3b7)
+
