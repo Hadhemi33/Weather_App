@@ -17,7 +17,8 @@ If the entered location is not found or there is an error with the API request, 
 
 
 
-![image](https://github.com/Hadhemi33/Weather_App/assets/109398819/a2b5cfb6-1e24-401b-8c29-55d7389fd0e9) ; ![image](https://github.com/Hadhemi33/Weather_App/assets/109398819/1532b3e9-2dfe-4ea0-aac8-de133c0b1610)  
+![image](https://github.com/Hadhemi33/Weather_App/assets/109398819/a2b5cfb6-1e24-401b-8c29-55d7389fd0e9) ; ![image](https://github.com/Hadhemi33/Weather_App/assets/109398819/d4d61b77-2c2b-4a66-943b-2e7026aaf50a)
+
 
 
 
