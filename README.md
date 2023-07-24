@@ -2,8 +2,8 @@
 A simple weather application. The application allows users to enter a location (city name) in a search box, and when they click the search button, 
 
 
+![image](https://github.com/Hadhemi33/Weather_App/assets/109398819/5ecbb4e2-0b6d-4f05-ad94-43cb7687cc61)
 
-![image](https://github.com/Hadhemi33/Weather_App/assets/109398819/2392268f-d1f5-4d32-986e-23ff493ed3b7)
 
 
 
@@ -17,7 +17,8 @@ If the entered location is not found or there is an error with the API request, 
 
 
 
-![image](https://github.com/Hadhemi33/Weather_App/assets/109398819/96c55c14-261a-44e2-8d5f-7f00c7937dce)
+![image](https://github.com/Hadhemi33/Weather_App/assets/109398819/a2b5cfb6-1e24-401b-8c29-55d7389fd0e9) ; ![image](https://github.com/Hadhemi33/Weather_App/assets/109398819/1532b3e9-2dfe-4ea0-aac8-de133c0b1610)  
 
 
-![image](https://github.com/Hadhemi33/Weather_App/assets/109398819/8b596b27-61ea-466e-875a-ff600cd70aa5)
+
+
